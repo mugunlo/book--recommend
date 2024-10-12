@@ -4,6 +4,10 @@
   font-style: normal;
 }
 
-.icon{
-  margin:auto;max-width:300px
+.got {
+  width: 30px;
+  height: 10px;    
+  padding: 1px;
+  border: 1px solid rgb(244, 239, 239);
 }
+
